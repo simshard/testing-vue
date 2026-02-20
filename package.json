@@ -15,7 +15,7 @@
     "expect": "^21.2.1",
     "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "vue-loader": "^15.7.0",
     "vue-template-compiler": "^2.4.4",
     "webpack": "^5.105.2"
